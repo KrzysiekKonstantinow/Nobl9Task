@@ -63,7 +63,7 @@ export default new RequestIFrame();
 This project uses Cypress fixtures for data. You can find fixture files in the cypress/fixtures directory. Modify these files to update test data.
 
 ## Custom commands
-This project includes custom Cypress command to enhance test readability and maintainability. These commands are located in the `cypress/support/commands.js` file.
+This project includes custom Cypress command to enhance test readability and maintainability. The command is located in the `cypress/support/commands.js` file.
 
 ### Command: `locateRequestIFrame`
 
