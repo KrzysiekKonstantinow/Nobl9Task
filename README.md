@@ -17,9 +17,10 @@ This project is a tech assessment for the recruitment process at Nobl9. It autom
 
 ## Installation
 
-# Install dependencies
+### Install dependencies
 ```bash
 npm install
+npm install cypress --save-dev
 ```
 
 ## Running Test Locally
